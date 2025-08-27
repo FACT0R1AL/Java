@@ -1,0 +1,15 @@
+TextOccurrenceHighlighting=false
+TextOccurrenceIndicationInOverviewRuler=false
+breakpointIndicationInOverviewRuler=false
+breakpointVerticalRuler=false
+comment_stylePreferences=NONE
+comment_text=false
+eclipse.preferences.version=1
+nocoverage_stylePreferences=NONE
+nocoverage_text=false
+occurrenceHighlighting=false
+occurrenceIndicationInOverviewRuler=false
+partialcoverage_stylePreferences=NONE
+partialcoverage_text=false
+writeOccurrenceHighlighting=false
+writeOccurrenceIndicationInOverviewRuler=false
