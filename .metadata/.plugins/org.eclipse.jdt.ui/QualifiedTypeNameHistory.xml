@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="sec06.exam02.hankook.Tire"/>
     <fullyQualifiedTypeName name="sec06.exam02.kumho.Tire"/>
+    <fullyQualifiedTypeName name="sec01.exam05.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam04.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
 </qualifiedTypeNameHistroy>
