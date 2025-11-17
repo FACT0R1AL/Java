@@ -1,0 +1,17 @@
+package test.three;
+
+public class Game {
+
+	public static void main(String[] args) {
+		AbstractMonster m1, m2;
+		m1 = new Attacker();
+		m2 = new Defender();
+		
+		m1.defense(m2.attack());
+		m2.defense(m1.attack());
+		
+		System.out.println("Attacker : " + m1.getHp());
+		System.out.println("Defender : " + m2.getHp());
+	}
+
+}
