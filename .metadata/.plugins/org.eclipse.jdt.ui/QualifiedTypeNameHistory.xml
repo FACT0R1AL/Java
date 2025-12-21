@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
     <fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
     <fullyQualifiedTypeName name="sec01.exam09.Car"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>
